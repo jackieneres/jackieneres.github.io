@@ -177,7 +177,7 @@ footer {
 #btn-tema {
     padding: 5px 12px;
     cursor: pointer;
-    background-color: var(--primary-color);
+    background-color: var(--white);
     color: white;
     border: none;
     border-radius: 5px;
